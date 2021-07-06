@@ -1,6 +1,6 @@
 # Change Log
 
 ## Release
-> June 21, 2021
-- Initial vesion has been shipped.
+> July 6, 2021
+- Initial vesion has been released and published to the vscode marketplace
 

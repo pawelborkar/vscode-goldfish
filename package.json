@@ -11,24 +11,25 @@
     "author": {
         "name": "Pawel Borkar",
         "email": "pawelbr@pm.me",
-        "url": "https://pawelb.ml"
+        "url": "https://pawelborkar.com"
     },
     "categories": [
         "Themes",
         "Other"
     ],
+    "icon": "assets/goldfish.png",
     "contributes": {
         "themes": [
             {
                 "label": "GoldFish",
                 "uiTheme": "vs-dark",
-                "path": "./themes/SailFish Theme-color-theme.json"
+                "path": "./themes/GoldFish-Theme-color-theme.json"
             }
         ]
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/pawelborkar/vscode-goldfish.git",
+        "url": "https://github.com/pawelborkar/vscode-goldfish.git"
     },
     "bugs": {
         "url": "https://github.com/pawelborkar/vscode-goldfish/issues"
