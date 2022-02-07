@@ -1,6 +1,6 @@
 {
     "name": "goldfish",
-    "displayName": "GoldFish",
+    "displayName": "GoldFish Theme",
     "description": "GoldFish: The minimalist theme",
     "version": "0.0.1",
     "publisher": "PawelBorkar",
@@ -35,5 +35,4 @@
         "url": "https://github.com/pawelborkar/vscode-goldfish/issues"
     },
     "homepage": "https://github.com/pawelborkar/vscode-goldfish/README.md"
-
 }
