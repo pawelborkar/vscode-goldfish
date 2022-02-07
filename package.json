@@ -2,7 +2,7 @@
     "name": "goldfish",
     "displayName": "GoldFish Theme",
     "description": "GoldFish: The minimalist theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "PawelBorkar",
     "license": "MIT",
     "engines": {
